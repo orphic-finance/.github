@@ -1,5 +1,9 @@
+image
+
 ## Hi there 👋
 
+# render image
+profile/public/pics/34-round.png
 
 
 **Here are some ideas to get you started:**
