@@ -1,1 +1,1 @@
-Public repo hosting the reamde of the organisation
+Public repo hosting the readme of the organisation
