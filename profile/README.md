@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/orphic-finance/.github/main/profile/public/pics/34-round.png" width="200" alt="profile pic">
 </p>
 
-## Welcome to Orphic Fiannce 🧙
+## Welcome to Orphic Finance 🧙
 
 🙋‍♀️ We are a team of passionate individuals who are committed to making the world a better place.
 
