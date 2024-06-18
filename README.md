@@ -1,1 +1,1 @@
-HElo to the project
+Public repo hosting the reamde of the organisation
